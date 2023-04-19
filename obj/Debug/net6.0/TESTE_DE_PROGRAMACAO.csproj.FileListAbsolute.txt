@@ -1,0 +1,15 @@
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\bin\Debug\net6.0\TESTE_DE_PROGRAMACAO.exe
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\bin\Debug\net6.0\TESTE_DE_PROGRAMACAO.deps.json
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\bin\Debug\net6.0\TESTE_DE_PROGRAMACAO.runtimeconfig.json
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\bin\Debug\net6.0\TESTE_DE_PROGRAMACAO.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\bin\Debug\net6.0\TESTE_DE_PROGRAMACAO.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.csproj.AssemblyReference.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.AssemblyInfoInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.AssemblyInfo.cs
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.csproj.CoreCompileInputs.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\refint\TESTE_DE_PROGRAMACAO.dll
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.pdb
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\TESTE_DE_PROGRAMACAO.genruntimeconfig.cache
+C:\Users\patri\OneDrive\Área de Trabalho\Programação\GitHub\TESTE_DE_PROGRAMACAO\obj\Debug\net6.0\ref\TESTE_DE_PROGRAMACAO.dll
